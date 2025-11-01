@@ -1,20 +1,105 @@
-<h1 align="center">Hi 👋, I'm Arijit Sen</h1>
-<h3 align="left">Final-year B.Tech student at Delhi Technological University (Mathematics and Computing) with strong foundations in algorithms (500+ problems solved on LeetCode/GFG) and hands-on experience in AI/ML, software engineering, and data automation. At Bain & Company as a Data Analyst Intern, I automated workflows using Power Automate and Google Apps Script, reducing manual effort by 30–50% and delivering insights that improved operational efficiency by 15%. At Medoc Health IT, I built a predictive model for patient no-shows that improved scheduling efficiency by 35% and achieved a ROC AUC of 0.85. I have engineered projects demonstrating real-world impact — including a RAG-based chatbot using HuggingFace embeddings and Groq accelerators (60% higher retrieval precision, 45% lower latency) and a Quora duplicate detector reaching 81% accuracy with NLP and ensemble models, deployed via a Streamlit interface. As Vice Chairperson of IEEE DTU, I led 12+ projects, built partnerships with 40+ branches and industry professionals, and boosted student engagement by 50%, showing my ability to lead teams and execute at scale. Proficient in C++, Python, TensorFlow, Keras, LangChain, and NLP, with knowledge of ANN, CNN, RNN, Transfer Learning, and core CS concepts (OOP, OS, DBMS, Networks), I’m passionate about building intelligent, production-ready systems. I am seeking opportunities in Software Development, Data Science, or AI/ML roles to apply my skills in creating scalable, impactful products.</h3>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste), I'm Arijit Sen</h2>
+<h4 align="center">AI & Data Science Enthusiast | B.Tech (Mathematics and Computing) @ DTU</h4>
 
-- 🔭 I’m currently working on [FastAPI](https://github.com/Arijit810/FastAPI-Insurance-Premium-Predictor)
+- 🔗 **LinkedIn:** [linkedin.com/in/arijit-sen-118083233](https://www.linkedin.com/in/arijit-sen-118083233/)  
+- 💻 **GitHub:** [github.com/Arijit810](https://github.com/Arijit810)  
+- 🌐 **Portfolio:** [fastfol.io/arijitsen](https://www.fastfol.io/arijitsen)  
+- ✉️ **Email:** arijitsen8101@gmail.com  
 
-- 👨‍💻 All of my projects are available at [https://github.com/Arijit810](https://github.com/Arijit810)
+---
 
-- 💬 Ask me about **Generative AI, LLMs, Machine Learning, Deep Learning**
+## 🧠 About Me
+🎓 I’m a final-year **Mathematics and Computing** student at **Delhi Technological University (DTU)** with a passion for **AI, Data Science, and Generative AI applications**.  
+💼 I’ve interned at **Bain & Company** and **Medoc Health IT**, focusing on AI-driven automation, NLP systems, and predictive modeling.  
+💡 I love building **RAG-based agents, FastAPI applications**, and exploring optimization on **Groq TSP** architecture.  
 
-- 📫 How to reach me **arijitsen8101@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aj.arijit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aj.arijit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arijit sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arijit sen" height="30" width="40" /></a>
-<a href="https://instagram.com/aj.arijit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aj.arijit" height="30" width="40" /></a>
+## 🛠️ Technical Skills
+
+### 👨‍💻 Programming & Markup Languages
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24">
+  <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="24">
+  <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height="24">
+  <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="24">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="24">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" height="24">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🧰 Frameworks & Libraries
+<p>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" height="24">
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white" height="24">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white" height="24">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-121212.svg?logo=openai&logoColor=white" height="24">
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white" height="24">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0078d7.svg?logo=docker&logoColor=white" height="24">
+</p>
+
+### ☁️ Databases & Cloud
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" height="24">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-3d6e93.svg?logo=mysql&logoColor=white" height="24">
+  <img alt="Render" src="https://img.shields.io/badge/Render-121212.svg?logo=render&logoColor=white" height="24">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-010101.svg?logo=vercel&logoColor=white" height="24">
+</p>
+
+### 💻 Tools
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" height="24">
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white" height="24">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="24">
+  <img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0066FF.svg?logo=Microsoft-Power-Automate&logoColor=white" height="24">
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-00c4cc.svg?logo=canva&logoColor=white" height="24">
+</p>
+
+---
+
+## 📚 Featured Projects
+
+### 📰 [US Census RAG-based Chatbot](https://github.com/Arijit810/US-census-RAG-based-Chatbot)
+> RAG, HuggingFace, Groq TSP, NLP  
+- Built a **RAG-based NLP system** using HuggingFace embeddings to extract insights from US Census PDFs.  
+- Integrated **Groq’s Tensor Streaming Processor (TSP)** for inference acceleration, reducing latency by 45%.  
+
+### ❓ [Quora Duplicate Detector](https://github.com/Arijit810/Qoura)
+> NLP, ML, Random Forest, Word2Vec  
+- Engineered **20+ NLP features** including fuzzy string metrics and embeddings, achieving 81% accuracy.  
+- Improved model precision by 30% and reduced false positives by 75%.  
+
+### 💰 [Insurance Premium Predictor](https://github.com/Arijit810/FastAPI-Insurance-Premium-Predictor)
+> FastAPI, Streamlit, Docker, Python  
+- Built a **full-stack ML app** predicting insurance premiums with 82% accuracy.  
+- Automated deployment pipeline via Docker + Render, improving uptime by 2%.  
+
+---
+
+## 🏆 Experience Highlights
+
+**Bain & Company (CoE – Data Visualization)** — *Intern Analyst*  
+> Jan 2025 – Jul 2025  
+- Designed an AI-powered tourism evaluation system using GPT + web APIs.  
+- Automated HR communication with Python, cutting manual work by 30%.  
+- Led research on labor-cost optimization improving efficiency by 15%.
+
+**Medoc Health IT Pvt Ltd** — *Software Engineering Intern*  
+> Jun 2024 – Jul 2024  
+- Built ML model predicting patient no-shows (ROC AUC 0.85), reducing wait times by 25%.  
+- Engineered robust data preprocessing and feature selection pipeline.  
+
+---
+
+## 🎯 Leadership & Achievements
+- **Vice Chairperson, IEEE DTU (2024–25)** – Led 12 projects, raised sponsorships by 20%, boosted participation by 50%.  
+- **4th in Keywords Studios AAA inGaming Coding Contest (₹2000 cash prize)**  
+- **Outstanding Student Volunteer, IEEE Delhi Section (2023–24)**  
+- **Solved 700+ DSA problems** on LeetCode, GFG & CodeStudio.  
+- **3rd in Techloop (INVICTUS’24 Tech Quiz)**  
+
+---
+
+<h2 align="center">Let's bring a Smile on your Face 😄</h2>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+</p>
