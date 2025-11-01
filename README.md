@@ -75,30 +75,6 @@
 
 ---
 
-## 🏆 Experience Highlights
-
-**Bain & Company (CoE – Data Visualization)** — *Intern Analyst*  
-> Jan 2025 – Jul 2025  
-- Designed an AI-powered tourism evaluation system using GPT + web APIs.  
-- Automated HR communication with Python, cutting manual work by 30%.  
-- Led research on labor-cost optimization improving efficiency by 15%.
-
-**Medoc Health IT Pvt Ltd** — *Software Engineering Intern*  
-> Jun 2024 – Jul 2024  
-- Built ML model predicting patient no-shows (ROC AUC 0.85), reducing wait times by 25%.  
-- Engineered robust data preprocessing and feature selection pipeline.  
-
----
-
-## 🎯 Leadership & Achievements
-- **Vice Chairperson, IEEE DTU (2024–25)** – Led 12 projects, raised sponsorships by 20%, boosted participation by 50%.  
-- **4th in Keywords Studios AAA inGaming Coding Contest (₹2000 cash prize)**  
-- **Outstanding Student Volunteer, IEEE Delhi Section (2023–24)**  
-- **Solved 700+ DSA problems** on LeetCode, GFG & CodeStudio.  
-- **3rd in Techloop (INVICTUS’24 Tech Quiz)**  
-
----
-
 <h2 align="center">Let's bring a Smile on your Face 😄</h2>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
